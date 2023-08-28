@@ -1,0 +1,50 @@
+.Navbar{
+    width: 100%;
+    height: 13vh;
+    background-color: red;
+}
+
+.ObjNavbar{
+    margin-right: 40px;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.logo{
+    margin-left: 250px;
+    display: flex;
+    justify-content:left;
+    align-items: center;
+}
+
+.Home{
+    width: 100%;
+    height: 88vh;
+    background-color: aqua;
+}
+
+.Seccion1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.boton{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Seccion1 img{
+    height: 50vh;
+    border-radius: 100%;
+    margin: 30px;
+}
+
+.Tarjetas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
